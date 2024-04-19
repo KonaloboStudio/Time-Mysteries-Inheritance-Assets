@@ -1,0 +1,10 @@
+<animatedImage fps="6" blendframes="1">
+	<frame source="fair_musician_animation_01.PNG"></frame>
+	<frame source="fair_musician_animation_02.PNG"></frame>
+	<frame source="fair_musician_animation_03.PNG"></frame>
+	<frame source="fair_musician_animation_04.PNG"></frame>
+	<frame source="fair_musician_animation_05.PNG"></frame>
+	<frame source="fair_musician_animation_06.PNG"></frame>
+	<frame source="fair_musician_animation_07.PNG"></frame>
+	<frame source="fair_musician_animation_08.PNG"></frame>
+</animatedImage>

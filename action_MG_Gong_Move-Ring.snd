@@ -1,0 +1,5 @@
+<Sound Looped="False" Pan="0.000" Pitch="1.000" Volume="0.500">
+	<CSample>
+		<CSampleFile FileName="action_MG_Gong_Move-Ring.wav" Pan="0.000" Pitch="1.000" Volume="1.000"/>
+	</CSample>
+</Sound>

@@ -1,0 +1,19 @@
+<animatedImage fps="4" blendframes="1">
+	<frame source="tournament_flag_1.png"></frame>
+	<frame source="tournament_flag_2.png"></frame>
+	<frame source="tournament_flag_3.png"></frame>
+	<frame source="tournament_flag_4.png"></frame>
+	<frame source="tournament_flag_5.png"></frame>
+	<frame source="tournament_flag_6.png"></frame>
+	<frame source="tournament_flag_7.png"></frame>
+	<frame source="tournament_flag_8.png"></frame>
+	<frame source="tournament_flag_9.png"></frame>
+	<frame source="tournament_flag_10.png"></frame>
+	<frame source="tournament_flag_11.png"></frame>
+	<frame source="tournament_flag_12.png"></frame>
+	<frame source="tournament_flag_13.png"></frame>
+	<frame source="tournament_flag_14.png"></frame>
+	<frame source="tournament_flag_15.png"></frame>
+	<frame source="tournament_flag_16.png"></frame>
+	<frame source="tournament_flag_17.png"></frame>
+</animatedImage>s

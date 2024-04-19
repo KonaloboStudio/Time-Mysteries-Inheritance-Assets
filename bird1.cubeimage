@@ -1,0 +1,10 @@
+<animatedImage fps="3" blendframes="1">
+	<frame source="bird1_1.png"></frame>
+	<frame source="bird1_2.png"></frame>
+	<frame source="bird1_3.png"></frame>
+	<frame source="bird1_4.png"></frame>
+	<frame source="bird1_5.png"></frame>
+	<frame source="bird1_6.png"></frame>
+	<frame source="bird1_7.png"></frame>
+	<frame source="bird1_8.png"></frame>
+</animatedImage>

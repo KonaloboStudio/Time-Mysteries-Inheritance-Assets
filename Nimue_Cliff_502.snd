@@ -1,0 +1,5 @@
+<Sound Looped="true" Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSample>
+		<CSampleFile FileName="Nimue_Cliff_502.wav" Pan="0.000" Pitch="1.000" Volume="1.000"/>
+	</CSample>
+</Sound>

@@ -1,0 +1,397 @@
+<fontscript>
+	<font gensize="16" name="Button_Exit" size="16" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="18" name="compareDifferance" size="18" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="21" name="Credits_Button" size="21" source="engebrechtre.ttf"/>
+	<font gensize="28" name="Credits_function" size="28" source="engebrechtre.ttf"/>
+	<font gensize="21" name="Credits_name" size="21" source="engebrechtre.ttf"/>
+	<font gensize="18" name="Cutscene" size="18" source="Neuton-Bold.ttf"/>
+	<font gensize="20" name="Cutscene_skip" size="20" source="engebrechtre.ttf"/>
+	<font gensize="20" name="cutscene_skip_wideScr" shadowcolor="0:0:0:1" shadowoffset="1:1" size="20" source="engebrechtre.ttf"/>
+	<font gensize="20" name="Cutscene_wideScr" size="20" source="Neuton-Bold.ttf"/>
+	<font dynamic="true" gensize="12" name="Default" size="12" source="Inconsolata.otf"/>
+	<font gensize="15" name="Dialog_Btn" shadowcolor="0:0:0:1" shadowoffset="1:1" size="15" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="28" name="Dialog_button_diff_level" shadowcolor="0:0:0:1" shadowoffset="1:1" size="28" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="21" name="Dialog_InGame_Buttons" shadowcolor="0:0:0:1" shadowoffset="1:1" size="21" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="17" name="Dialog_InGame_Title" shadowcolor="0:0:0:0.5" shadowoffset="1:1" size="17" source="engebrechtre.ttf"/>
+	<font baselineyoffset="-3" gensize="28" name="dialog_ingame_unlock" shadowcolor="0:0:0:1" shadowoffset="1:1" size="28" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="28" name="Dialog_Text_Large" shadowcolor="0:0:0:1" shadowoffset="1:1" size="28" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="22" name="Dialog_Text_Normal" shadowcolor="0:0:0:1" shadowoffset="1:1" size="22" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="18" name="Dialog_Text_Small" shadowcolor="0:0:0:1" shadowoffset="1:1" size="18" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="16" name="Dialog_Text_Tiny" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="15" name="Dialog_Title" shadowcolor="0:0:0:1" shadowoffset="1:1" size="15" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="20" name="Diary_Buttons_Title" size="20" source="Architects_Daughter.ttf"/>
+	<font gensize="24" lineheight="30" name="Diary_Handwriten" size="24" source="odstemplik.ttf"/>
+	<font gensize="40" name="Diary_Handwriten_Large" size="40" source="odstemplik.ttf"/>
+	<font gensize="14" name="Diary_Notes_Normal" size="14" source="Architects_Daughter.ttf"/>
+	<font gensize="12" name="Diary_Notes_Small" size="12" source="Architects_Daughter.ttf"/>
+	<font gensize="14" name="Diary_Objectives_Text" size="14" source="Architects_Daughter.ttf"/>
+	<font gensize="18" name="Diary_Objectives_Title" size="18" source="Architects_Daughter.ttf"/>
+	<font gensize="16" name="DIARY_Pages" size="16" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="12" name="Diary_TypeWriting" size="12" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="24" name="DiscountLabel" shadowcolor="1:0.3:0.15:1" shadowoffset="1:1" size="24" source="PT_Sans-Web-Bold.ttf"/>
+	<font baselineyoffset="5" gensize="19" lineheight="22" name="Handwrite_FamilyTree_Normal" size="19" source="odstemplik.ttf"/>
+	<font gensize="24" name="Handwrite_Normal" size="24" source="odstemplik.ttf"/>
+	<font gensize="20" name="Handwrite_Small" size="20" source="odstemplik.ttf"/>
+	<font gensize="16" name="Handwrite_Tiny" size="16" source="odstemplik.ttf"/>
+	<font gensize="24" name="HELP_Handwriten" size="24" source="odstemplik.ttf"/>
+	<font gensize="16" name="HELP_PAGER" size="16" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="16" name="HELP_Small" size="16" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="24" name="HELP_TITLE" size="24" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="18" name="HUD_BlackBars" size="18" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="15" name="HUD_Buttons" shadowcolor="0:0:0:0.6" shadowoffset="1:1" size="15" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="24" name="HUD_Buttons_large" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="15" name="HUD_Context" size="15" source="Neuton-Bold.ttf"/>
+	<font gensize="14" name="HUD_HOlabel" size="14" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="12" name="HUD_Inventory" shadowcolor="0:0:0:0.5" shadowoffset="1:1" size="12" source="PT_Sans-Web-Bold.ttf"/>
+	<font baselineyoffset="-2" gensize="28" name="HUD_ItemFindingWindow" size="28" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="24" name="HUD_ItemFindingWindow_ItemName" size="24" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="16" name="HUD_Objective" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="15" name="HUD_Text" shadowcolor="0.0431373:0.0431373:0.0431373:1" shadowoffset="1:1" size="15" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="32" name="Loading_Saving" shadowcolor="0.0431373:0.0431373:0.0431373:1" shadowoffset="1:1" size="32" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="27" name="MainMenu_Play" size="27" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="40" name="MainMenu_Play_Unlocked" size="40" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="32" name="MainMenu_Unlock" size="32" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="28" name="MainMenuBoldButton" size="28" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="20" name="MainMenuCommonButton" size="20" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="24" name="MainMenuProfilePlayer" size="24" source="PT_Sans-Web-Regular.ttf"/>
+	<font baselineyoffset="1" gensize="20" name="MainMenuProfileText" size="20" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="24" name="Menu" size="24" source="engebrechtre.ttf"/>
+	<font gensize="19" name="newspaper_big" size="19" source="Marmelad-Regular.ttf"/>
+	<font gensize="17" name="newspaper_normal" size="17" source="Marmelad-Regular.ttf"/>
+	<font gensize="13" name="newspaper_small" size="13" source="Marmelad-Regular.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="16" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="16" name="Pac_dialog_text" size="16" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="22" name="Pac_dialog_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="22" name="paywall_bulletpoints" size="22" source="PT_Sans-Web-Regular.ttf"/>
+	<font baselineyoffset="3" gensize="21" name="Player_name" size="21" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="20" name="Rotor_Discount_Label" shadowcolor="0.5:0:0.58:1" shadowoffset="2:2" size="20" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="24" name="Rotor_Discount_Label_Large" shadowcolor="0.5:0:0.58:1" shadowoffset="2:2" size="24" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="22" name="Skip_tutorial" size="22" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="16" name="Tutorial_Text" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="24" name="Tutorial_Text_Large" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="32" name="Typewrite_Huge" size="32" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="16" name="Typewrite_Normal" size="16" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="60" name="TypeWrite_TimeStartText" shadowcolor="0:0:0:1" shadowoffset="1:1" size="60" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="8" name="Version" size="8" source="Inconsolata.otf"/>
+	<font gensize="29" name="Wallpaper_Saved" shadowcolor="0:0:0:1" shadowoffset="2:2" size="29" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="19" name="Zoom_Skip_tutorial" size="19" source="LiberationSerif-Regular.ttf"/>
+	<font gensize="15" name="Zoom_Tutorial_Text" size="15" source="LiberationSerif-Regular.ttf"/>
+	<language name="es">
+		<font baselineyoffset="1" gensize="26" name="HUD_ItemFindingWindow" size="26" source="LiberationSerif-Regular.ttf"/>
+		<font gensize="28" name="MainMenu_Unlock" size="28" source="PT_Sans-Web-Bold.ttf"/>
+	</language>
+	<language name="fr">
+		<font gensize="28" name="MainMenu_Unlock" size="28" source="PT_Sans-Web-Bold.ttf"/>
+	</language>
+	<language name="ja">
+		<font gensize="16" name="Button_Exit" size="16" source="KozGoPro-Bold.ttf"/>
+		<font gensize="18" name="compareDifferance" shadowcolor="0:0:0:0.6" shadowoffset="1:1" size="18" source="KozMinPro-Bold.ttf"/>
+		<font gensize="21" name="Credits_Button" size="21" source="KozGoPro-Medium.ttf"/>
+		<font gensize="28" name="Credits_function" size="28" source="engebrechtre.ttf"/>
+		<font gensize="21" name="Credits_name" size="21" source="engebrechtre.ttf"/>
+		<font gensize="18" name="Cutscene" size="18" source="KozMinPro-Medium.ttf"/>
+		<font gensize="20" name="Cutscene_skip" size="20" source="KozMinPro-Bold.ttf"/>
+		<font gensize="20" name="cutscene_skip_wideScr" shadowcolor="0:0:0:1" shadowoffset="1:1" size="20" source="KozMinPro-Bold.ttf"/>
+		<font gensize="18" name="Cutscene_wideScr" size="18" source="KozMinPro-Medium.ttf"/>
+		<font gensize="15" name="Dialog_Btn" shadowcolor="0:0:0:1" shadowoffset="1:1" size="15" source="KozMinPro-Bold.ttf"/>
+		<font gensize="24" name="Dialog_button_diff_level" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="KozGoPro-Medium.ttf"/>
+		<font gensize="21" name="Dialog_InGame_Buttons" shadowcolor="0:0:0:1" shadowoffset="1:1" size="21" source="KozMinPro-Bold.ttf"/>
+		<font gensize="17" name="Dialog_InGame_Title" shadowcolor="0:0:0:0.5" shadowoffset="1:1" size="17" source="KozMinPro-Bold.ttf"/>
+		<font gensize="24" name="dialog_ingame_unlock" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="KozGoPro-Medium.ttf"/>
+		<font gensize="24" name="Dialog_Text_Large" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="KozGoPro-Medium.ttf"/>
+		<font gensize="19" name="Dialog_Text_Normal" shadowcolor="0:0:0:1" shadowoffset="1:1" size="19" source="KozGoPro-Medium.ttf"/>
+		<font gensize="18" name="Dialog_Text_Small" shadowcolor="0:0:0:1" shadowoffset="1:1" size="18" source="KozGoPro-Medium.ttf"/>
+		<font gensize="16" name="Dialog_Text_Tiny" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="KozGoPro-Medium.ttf"/>
+		<font gensize="15" name="Dialog_Title" shadowcolor="0:0:0:1" shadowoffset="1:1" size="15" source="KozMinPro-Bold.ttf"/>
+		<font gensize="20" name="Diary_Buttons_Title" size="20" source="KozMinPro-Bold.ttf"/>
+		<font gensize="20" name="Diary_Handwriten" size="20" source="KozMinPro-Bold.ttf"/>
+		<font gensize="40" name="Diary_Handwriten_Large" size="40" source="KozMinPro-Bold.ttf"/>
+		<font gensize="17" lineheight="28" name="Diary_Notes_Normal" size="17" source="YOzREPro.otf"/>
+		<font gensize="17" lineheight="28" name="Diary_Notes_Small" size="17" source="YOzREPro.otf"/>
+		<font gensize="16" name="Diary_Objectives_Text" size="16" source="YOzREPro.otf"/>
+		<font gensize="20" name="Diary_Objectives_Title" size="20" source="YOzREPro.otf"/>
+		<font gensize="12" name="Diary_TypeWriting" size="12" source="KozMinPro-Medium.ttf"/>
+		<font baselineyoffset="3" gensize="14" lineheight="22" name="Handwrite_FamilyTree_Normal" size="14" source="KozMinPro-Medium.ttf"/>
+		<font gensize="19" name="Handwrite_Normal" size="19" source="YOzRSPro.otf"/>
+		<font gensize="17" name="Handwrite_Small" size="17" source="YOzRSPro.otf"/>
+		<font gensize="17" name="Handwrite_Tiny" size="17" source="YOzRSPro.otf"/>
+		<font gensize="19" name="HELP_Handwriten" size="19" source="KozMinPro-Bold.ttf"/>
+		<font gensize="16" name="HELP_Small" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="21" name="HELP_TITLE" size="21" source="KozGoPro-Bold.ttf"/>
+		<font gensize="18" name="HUD_BlackBars" size="18" source="KozMinPro-Medium.ttf"/>
+		<font gensize="13" name="HUD_Buttons" shadowcolor="0:0:0:0.6" shadowoffset="1:1" size="13" source="KozMinPro-Bold.ttf"/>
+		<font gensize="24" name="HUD_Buttons_large" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="KozMinPro-Bold.ttf"/>
+		<font gensize="15" name="HUD_Context" size="15" source="KozGoPro-Medium.ttf"/>
+		<font gensize="14" name="HUD_HOlabel" size="14" source="KozGoPro-Regular.ttf"/>
+		<font gensize="14" name="HUD_Inventory" shadowcolor="0:0:0:0.5" shadowoffset="1:1" size="14" source="KozMinPro-Bold.ttf"/>
+		<font gensize="28" name="HUD_ItemFindingWindow" size="28" source="KozMinPro-Medium.ttf"/>
+		<font gensize="24" name="HUD_ItemFindingWindow_ItemName" size="24" source="KozMinPro-Medium.ttf"/>
+		<font gensize="16" name="HUD_Objective" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="KozGoPro-Medium.ttf"/>
+		<font gensize="15" name="HUD_Text" shadowcolor="0.0431373:0.0431373:0.0431373:1" shadowoffset="1:1" size="15" source="KozMinPro-Medium.ttf"/>
+		<font gensize="32" name="Loading_Saving" size="32" source="KozGoPro-Regular.ttf"/>
+		<font gensize="27" name="MainMenu_Play" size="27" source="KozGoPro-Bold.ttf"/>
+		<font gensize="40" name="MainMenu_Play_Unlocked" size="40" source="KozGoPro-Bold.ttf"/>
+		<font gensize="28" name="MainMenu_Unlock" size="28" source="KozGoPro-Bold.ttf"/>
+		<font gensize="28" name="MainMenuBoldButton" size="28" source="KozGoPro-Bold.ttf"/>
+		<font gensize="20" name="MainMenuCommonButton" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="MainMenuProfilePlayer" size="24" source="KozGoPro-Bold.ttf"/>
+		<font gensize="20" name="MainMenuProfileText" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="21" name="Menu" size="21" source="KozMinPro-Bold.ttf"/>
+		<font gensize="19" name="newspaper_big" size="19" source="KozGoPro-Bold.ttf"/>
+		<font gensize="17" name="newspaper_normal" size="17" source="KozGoPro-Bold.ttf"/>
+		<font gensize="13" lineheight="20" name="newspaper_small" size="13" source="KozGoPro-Bold.ttf"/>
+		<font gensize="20" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="14" name="Pac_dialog_text" size="14" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Pac_dialog_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="paywall_bulletpoints" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font baselineyoffset="3" gensize="21" name="Player_name" size="21" source="KozGoPro-Bold.ttf"/>
+		<font gensize="17" name="Skip_tutorial" size="17" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Tutorial_Text" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="19" name="Tutorial_Text_Large" shadowcolor="0:0:0:1" shadowoffset="1:1" size="19" source="KozGoPro-Regular.ttf"/>
+		<font gensize="32" name="Typewrite_Huge" size="32" source="KozMinPro-Medium.ttf"/>
+		<font gensize="16" name="Typewrite_Normal" size="16" source="KozMinPro-Medium.ttf"/>
+		<font gensize="60" name="TypeWrite_TimeStartText" shadowcolor="0:0:0:1" shadowoffset="1:1" size="60" source="KozMinPro-Medium.ttf"/>
+		<font gensize="8" name="Version" size="8" source="Inconsolata.otf"/>
+		<font gensize="25" name="Wallpaper_Saved" shadowcolor="0:0:0:1" shadowoffset="2:2" size="25" source="KozGoPro-Regular.ttf"/>
+		<font gensize="19" name="Zoom_Skip_tutorial" size="19" source="KozGoPro-Regular.ttf"/>
+		<font gensize="15" name="Zoom_Tutorial_Text" size="15" source="KozGoPro-Regular.ttf"/>
+	</language>
+	<language name="ko">
+		<font gensize="16" name="Button_Exit" size="16" source="NanumGothic.ttf"/>
+		<font gensize="18" name="compareDifferance" shadowcolor="0:0:0:0.6" shadowoffset="1:1" size="18" source="NanumGothic.ttf"/>
+		<font gensize="21" name="Credits_Button" size="21" source="NanumGothic.ttf"/>
+		<font gensize="28" name="Credits_function" size="28" source="engebrechtre.ttf"/>
+		<font gensize="21" name="Credits_name" size="21" source="engebrechtre.ttf"/>
+		<font gensize="18" name="Cutscene" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Cutscene_skip" size="20" source="NanumGothic.ttf"/>
+		<font gensize="20" name="cutscene_skip_wideScr" shadowcolor="0:0:0:1" shadowoffset="1:1" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Cutscene_wideScr" size="18" source="NanumGothic.ttf"/>
+		<font gensize="15" name="Dialog_Btn" shadowcolor="0:0:0:1" shadowoffset="1:1" size="15" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Dialog_button_diff_level" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="NanumGothic.ttf"/>
+		<font gensize="21" name="Dialog_InGame_Buttons" shadowcolor="0:0:0:1" shadowoffset="1:1" size="21" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Dialog_InGame_Title" shadowcolor="0:0:0:0.5" shadowoffset="1:1" size="17" source="NanumGothic.ttf"/>
+		<font gensize="24" name="dialog_ingame_unlock" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Dialog_Text_Large" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="NanumGothic.ttf"/>
+		<font gensize="19" name="Dialog_Text_Normal" shadowcolor="0:0:0:1" shadowoffset="1:1" size="19" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Dialog_Text_Small" shadowcolor="0:0:0:1" shadowoffset="1:1" size="18" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Dialog_Text_Tiny" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="NanumGothic.ttf"/>
+		<font gensize="15" name="Dialog_Title" shadowcolor="0:0:0:1" shadowoffset="1:1" size="15" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Diary_Buttons_Title" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Diary_Handwriten" size="24" source="NanumGothic.ttf"/>
+		<font gensize="40" name="Diary_Handwriten_Large" size="40" source="NanumGothic.ttf"/>
+		<font gensize="17" lineheight="28" name="Diary_Notes_Normal" size="17" source="NanumGothic.ttf"/>
+		<font gensize="17" lineheight="28" name="Diary_Notes_Small" size="17" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Diary_Objectives_Text" size="16" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Diary_Objectives_Title" size="20" source="NanumGothic.ttf"/>
+		<font gensize="12" name="Diary_TypeWriting" size="12" source="NanumGothic.ttf"/>
+		<font baselineyoffset="3" gensize="14" lineheight="22" name="Handwrite_FamilyTree_Normal" size="14" source="NanumGothic.ttf"/>
+		<font gensize="19" name="Handwrite_Normal" size="19" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Handwrite_Small" size="17" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Handwrite_Tiny" size="17" source="NanumGothic.ttf"/>
+		<font gensize="19" name="HELP_Handwriten" size="19" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HELP_Small" size="16" source="NanumGothic.ttf"/>
+		<font gensize="21" name="HELP_TITLE" size="21" source="NanumGothic.ttf"/>
+		<font gensize="18" name="HUD_BlackBars" size="18" source="NanumGothic.ttf"/>
+		<font gensize="13" name="HUD_Buttons" shadowcolor="0:0:0:0.6" shadowoffset="1:1" size="13" source="NanumGothic.ttf"/>
+		<font gensize="24" name="HUD_Buttons_large" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="15" name="HUD_Context" size="15" source="NanumGothic.ttf"/>
+		<font gensize="14" name="HUD_HOlabel" size="14" source="NanumGothic.ttf"/>
+		<font gensize="17" name="HUD_Inventory" shadowcolor="0:0:0:0.5" shadowoffset="1:1" size="17" source="NanumGothic.ttf"/>
+		<font gensize="28" name="HUD_ItemFindingWindow" size="28" source="NanumGothic.ttf"/>
+		<font gensize="24" name="HUD_ItemFindingWindow_ItemName" size="24" source="NanumGothic.ttf"/>
+		<font gensize="16" name="HUD_Objective" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="NanumGothic.ttf"/>
+		<font gensize="15" name="HUD_Text" shadowcolor="0.0431373:0.0431373:0.0431373:1" shadowoffset="1:1" size="15" source="NanumGothic.ttf"/>
+		<font gensize="32" name="Loading_Saving" size="32" source="NanumGothic.ttf"/>
+		<font gensize="27" name="MainMenu_Play" size="27" source="NanumGothic.ttf"/>
+		<font gensize="40" name="MainMenu_Play_Unlocked" size="40" source="NanumGothic.ttf"/>
+		<font gensize="28" name="MainMenu_Unlock" size="28" source="NanumGothic.ttf"/>
+		<font gensize="28" name="MainMenuBoldButton" size="28" source="NanumGothic.ttf"/>
+		<font gensize="20" name="MainMenuCommonButton" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="MainMenuProfilePlayer" size="24" source="NanumGothic.ttf"/>
+		<font gensize="20" name="MainMenuProfileText" size="20" source="NanumGothic.ttf"/>
+		<font gensize="21" name="Menu" size="21" source="NanumGothic.ttf"/>
+		<font gensize="19" name="newspaper_big" size="19" source="NanumGothic.ttf"/>
+		<font gensize="17" name="newspaper_normal" size="17" source="NanumGothic.ttf"/>
+		<font gensize="13" name="newspaper_small" size="13" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="20" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="20" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="16" source="NanumGothic.ttf"/>
+		<font gensize="14" name="Pac_dialog_text" size="14" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Pac_dialog_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="20" source="NanumGothic.ttf"/>
+		<font gensize="20" name="paywall_bulletpoints" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="20" source="NanumGothic.ttf"/>
+		<font baselineyoffset="3" gensize="21" name="Player_name" size="21" source="NanumGothic.ttf"/>
+		<font gensize="17" name="Skip_tutorial" size="17" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Tutorial_Text" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="NanumGothic.ttf"/>
+		<font gensize="19" name="Tutorial_Text_Large" shadowcolor="0:0:0:1" shadowoffset="1:1" size="19" source="NanumGothic.ttf"/>
+		<font gensize="32" name="Typewrite_Huge" size="32" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Typewrite_Normal" size="16" source="NanumGothic.ttf"/>
+		<font gensize="60" name="TypeWrite_TimeStartText" shadowcolor="0:0:0:1" shadowoffset="1:1" size="60" source="NanumGothic.ttf"/>
+		<font gensize="8" name="Version" size="8" source="Inconsolata.otf"/>
+		<font gensize="25" name="Wallpaper_Saved" shadowcolor="0:0:0:1" shadowoffset="2:2" size="25" source="NanumGothic.ttf"/>
+		<font gensize="19" name="Zoom_Skip_tutorial" size="19" source="NanumGothic.ttf"/>
+		<font gensize="15" name="Zoom_Tutorial_Text" size="15" source="NanumGothic.ttf"/>
+	</language>
+	<language name="pt">
+		<font gensize="28" name="MainMenu_Unlock" size="28" source="PT_Sans-Web-Bold.ttf"/>
+		<font gensize="17" name="newspaper_big" size="17" source="Marmelad-Regular.ttf"/>
+	</language>
+	<language name="ru">
+		<font gensize="16" name="Button_Exit" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="compareDifferance" shadowcolor="0:0:0:0.6" shadowoffset="1:1" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="21" name="Credits_Button" size="21" source="Jura-Regular.ttf"/>
+		<font gensize="28" name="Credits_function" size="28" source="engebrechtre.ttf"/>
+		<font gensize="21" name="Credits_name" size="21" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Cutscene" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Cutscene_skip" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="cutscene_skip_wideScr" shadowcolor="0:0:0:1" shadowoffset="1:1" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Cutscene_wideScr" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Dialog_Btn" shadowcolor="0:0:0:1" shadowoffset="1:1" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Dialog_button_diff_level" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="21" name="Dialog_InGame_Buttons" shadowcolor="0:0:0:1" shadowoffset="1:1" size="21" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Dialog_InGame_Title" shadowcolor="0:0:0:0.5" shadowoffset="1:1" size="17" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="2" gensize="24" lineheight="28" name="dialog_ingame_unlock" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Dialog_Text_Large" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="Dialog_Text_Normal" shadowcolor="0:0:0:1" shadowoffset="1:1" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Dialog_Text_Small" shadowcolor="0:0:0:1" shadowoffset="1:1" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Dialog_Text_Tiny" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Dialog_Title" shadowcolor="0:0:0:1" shadowoffset="1:1" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Diary_Buttons_Title" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="22" lineheight="26" name="Diary_Handwriten" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="40" name="Diary_Handwriten_Large" size="40" source="Jura-Regular.ttf"/>
+		<font gensize="17" lineheight="26" name="Diary_Notes_Normal" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="17" lineheight="26" name="Diary_Notes_Small" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Diary_Objectives_Text" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Diary_Objectives_Title" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="12" name="Diary_TypeWriting" size="12" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="3" gensize="14" lineheight="22" name="Handwrite_FamilyTree_Normal" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="Handwrite_Normal" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Handwrite_Small" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Handwrite_Tiny" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="HELP_Handwriten" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="HELP_Small" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="21" name="HELP_TITLE" size="21" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="HUD_BlackBars" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="13" name="HUD_Buttons" shadowcolor="0:0:0:0.6" shadowoffset="1:1" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="HUD_Buttons_large" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="HUD_Context" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="14" name="HUD_HOlabel" size="14" source="Jura-Regular.ttf"/>
+		<font gensize="12" name="HUD_Inventory" shadowcolor="0:0:0:0.5" shadowoffset="1:1" size="12" source="Jura-Regular.ttf"/>
+		<font gensize="28" name="HUD_ItemFindingWindow" size="28" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="HUD_ItemFindingWindow_ItemName" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="HUD_Objective" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="HUD_Text" shadowcolor="0.0431373:0.0431373:0.0431373:1" shadowoffset="1:1" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="32" name="Loading_Saving" size="32" source="Jura-Regular.ttf"/>
+		<font gensize="27" name="MainMenu_Play" size="27" source="Jura-Regular.ttf"/>
+		<font gensize="40" name="MainMenu_Play_Unlocked" size="40" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="2" gensize="28" lineheight="40" name="MainMenu_Unlock" size="28" source="Jura-Regular.ttf"/>
+		<font gensize="28" name="MainMenuBoldButton" size="28" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="MainMenuCommonButton" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="MainMenuProfilePlayer" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="MainMenuProfileText" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="21" name="Menu" size="21" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="newspaper_big" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="newspaper_normal" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="13" name="newspaper_small" size="13" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="Pac_dialog_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="paywall_bulletpoints" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="21" name="Player_name" size="21" source="Jura-Regular.ttf"/>
+		<font gensize="17" name="Skip_tutorial" size="17" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Tutorial_Text" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="Tutorial_Text_Large" shadowcolor="0:0:0:1" shadowoffset="1:1" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="32" name="Typewrite_Huge" size="32" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Typewrite_Normal" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="60" name="TypeWrite_TimeStartText" shadowcolor="0:0:0:1" shadowoffset="1:1" size="60" source="Jura-Regular.ttf"/>
+		<font gensize="8" name="Version" size="8" source="Inconsolata.otf"/>
+		<font gensize="25" name="Wallpaper_Saved" shadowcolor="0:0:0:1" shadowoffset="2:2" size="25" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="Zoom_Skip_tutorial" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Zoom_Tutorial_Text" size="15" source="Jura-Regular.ttf"/>
+	</language>
+	<language name="zh">
+		<font gensize="16" name="Button_Exit" size="16" source="uming.ttc"/>
+		<font gensize="18" name="compareDifferance" shadowcolor="0:0:0:0.6" shadowoffset="1:1" size="18" source="uming.ttc"/>
+		<font gensize="21" name="Credits_Button" size="21" source="uming.ttc"/>
+		<font gensize="28" name="Credits_function" size="28" source="engebrechtre.ttf"/>
+		<font gensize="21" name="Credits_name" size="21" source="engebrechtre.ttf"/>
+		<font gensize="18" name="Cutscene" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Cutscene_skip" size="20" source="uming.ttc"/>
+		<font gensize="20" name="cutscene_skip_wideScr" shadowcolor="0:0:0:1" shadowoffset="1:1" size="20" source="uming.ttc"/>
+		<font gensize="18" name="Cutscene_wideScr" size="18" source="uming.ttc"/>
+		<font gensize="15" name="Dialog_Btn" shadowcolor="0:0:0:1" shadowoffset="1:1" size="15" source="uming.ttc"/>
+		<font gensize="21" name="Dialog_button_diff_level" shadowcolor="0:0:0:1" shadowoffset="1:1" size="21" source="uming.ttc"/>
+		<font baselineyoffset="-2" gensize="21" name="Dialog_InGame_Buttons" shadowcolor="0:0:0:1" shadowoffset="1:1" size="21" source="uming.ttc"/>
+		<font gensize="17" name="Dialog_InGame_Title" shadowcolor="0:0:0:0.5" shadowoffset="1:1" size="17" source="uming.ttc"/>
+		<font gensize="24" name="dialog_ingame_unlock" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="uming.ttc"/>
+		<font gensize="24" name="Dialog_Text_Large" shadowcolor="0:0:0:1" shadowoffset="1:1" size="24" source="uming.ttc"/>
+		<font gensize="19" name="Dialog_Text_Normal" shadowcolor="0:0:0:1" shadowoffset="1:1" size="19" source="uming.ttc"/>
+		<font gensize="18" name="Dialog_Text_Small" shadowcolor="0:0:0:1" shadowoffset="1:1" size="18" source="uming.ttc"/>
+		<font gensize="16" name="Dialog_Text_Tiny" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="uming.ttc"/>
+		<font gensize="15" name="Dialog_Title" shadowcolor="0:0:0:1" shadowoffset="1:1" size="15" source="uming.ttc"/>
+		<font gensize="20" name="Diary_Buttons_Title" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Diary_Handwriten" size="24" source="uming.ttc"/>
+		<font gensize="40" name="Diary_Handwriten_Large" size="40" source="uming.ttc"/>
+		<font gensize="17" lineheight="28" name="Diary_Notes_Normal" size="17" source="uming.ttc"/>
+		<font gensize="17" lineheight="28" name="Diary_Notes_Small" size="17" source="uming.ttc"/>
+		<font gensize="16" name="Diary_Objectives_Text" size="16" source="uming.ttc"/>
+		<font gensize="20" name="Diary_Objectives_Title" size="20" source="uming.ttc"/>
+		<font gensize="12" name="Diary_TypeWriting" size="12" source="uming.ttc"/>
+		<font baselineyoffset="3" gensize="14" lineheight="22" name="Handwrite_FamilyTree_Normal" size="14" source="uming.ttc"/>
+		<font gensize="19" name="Handwrite_Normal" size="19" source="uming.ttc"/>
+		<font gensize="17" name="Handwrite_Small" size="17" source="uming.ttc"/>
+		<font gensize="17" name="Handwrite_Tiny" size="17" source="uming.ttc"/>
+		<font gensize="19" name="HELP_Handwriten" size="19" source="uming.ttc"/>
+		<font gensize="20" name="HELP_Small" size="20" source="uming.ttc"/>
+		<font gensize="28" name="HELP_TITLE" size="28" source="uming.ttc"/>
+		<font gensize="18" name="HUD_BlackBars" size="18" source="uming.ttc"/>
+		<font gensize="13" name="HUD_Buttons" shadowcolor="0:0:0:0.6" shadowoffset="1:1" size="13" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Buttons_large" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="15" name="HUD_Context" size="15" source="uming.ttc"/>
+		<font gensize="14" name="HUD_HOlabel" size="14" source="uming.ttc"/>
+		<font gensize="17" name="HUD_Inventory" size="17" source="uming.ttc"/>
+		<font gensize="28" name="HUD_ItemFindingWindow" size="28" source="uming.ttc"/>
+		<font gensize="24" name="HUD_ItemFindingWindow_ItemName" size="24" source="uming.ttc"/>
+		<font gensize="16" name="HUD_Objective" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="uming.ttc"/>
+		<font gensize="15" name="HUD_Text" shadowcolor="0.0431373:0.0431373:0.0431373:1" shadowoffset="1:1" size="15" source="uming.ttc"/>
+		<font gensize="32" name="Loading_Saving" size="32" source="uming.ttc"/>
+		<font gensize="27" name="MainMenu_Play" size="27" source="uming.ttc"/>
+		<font gensize="40" name="MainMenu_Play_Unlocked" size="40" source="uming.ttc"/>
+		<font gensize="28" name="MainMenu_Unlock" size="28" source="uming.ttc"/>
+		<font gensize="28" name="MainMenuBoldButton" size="28" source="uming.ttc"/>
+		<font gensize="20" name="MainMenuCommonButton" size="20" source="uming.ttc"/>
+		<font gensize="24" name="MainMenuProfilePlayer" size="24" source="uming.ttc"/>
+		<font gensize="20" name="MainMenuProfileText" size="20" source="uming.ttc"/>
+		<font gensize="21" name="Menu" size="21" source="uming.ttc"/>
+		<font gensize="19" name="newspaper_big" size="19" source="uming.ttc"/>
+		<font gensize="17" name="newspaper_normal" size="17" source="uming.ttc"/>
+		<font gensize="13" lineheight="20" name="newspaper_small" size="13" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="uming.ttc"/>
+		<font gensize="16" name="Pac_dialog_suffix" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="16" source="uming.ttc"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="uming.ttc"/>
+		<font gensize="20" name="Pac_dialog_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="20" source="uming.ttc"/>
+		<font gensize="22" name="paywall_bulletpoints" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font baselineyoffset="1" gensize="21" name="Player_name" size="21" source="uming.ttc"/>
+		<font gensize="17" name="Skip_tutorial" size="17" source="uming.ttc"/>
+		<font gensize="16" name="Tutorial_Text" shadowcolor="0:0:0:1" shadowoffset="1:1" size="16" source="uming.ttc"/>
+		<font gensize="19" name="Tutorial_Text_Large" shadowcolor="0:0:0:1" shadowoffset="1:1" size="19" source="uming.ttc"/>
+		<font gensize="32" name="Typewrite_Huge" size="32" source="uming.ttc"/>
+		<font gensize="16" name="Typewrite_Normal" size="16" source="uming.ttc"/>
+		<font gensize="60" name="TypeWrite_TimeStartText" shadowcolor="0:0:0:1" shadowoffset="1:1" size="60" source="uming.ttc"/>
+		<font gensize="8" name="Version" size="8" source="Inconsolata.otf"/>
+		<font gensize="25" name="Wallpaper_Saved" shadowcolor="0:0:0:1" shadowoffset="2:2" size="25" source="uming.ttc"/>
+		<font gensize="19" name="Zoom_Skip_tutorial" size="19" source="uming.ttc"/>
+		<font gensize="15" name="Zoom_Tutorial_Text" size="15" source="uming.ttc"/>
+	</language>
+</fontscript>

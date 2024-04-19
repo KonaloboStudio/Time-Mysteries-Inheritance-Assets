@@ -1,0 +1,4 @@
+<animatedImage fps="20.00" blendframes="0">
+	<frame source="butterfly.png" top="0.00000" bottom="1" left="0.00000" right="0.50000"></frame>
+	<frame source="butterfly.png" top="0.00000" bottom="1" left="0.50000" right="1"></frame>
+</animatedImage>

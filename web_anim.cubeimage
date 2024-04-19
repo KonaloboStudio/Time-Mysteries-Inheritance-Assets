@@ -1,0 +1,17 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="web_anim_01.png"></frame>
+	<frame source="web_anim_02.png"></frame>
+	<frame source="web_anim_03.png"></frame>
+	<frame source="web_anim_04.png"></frame>
+	<frame source="web_anim_05.png"></frame>
+	<frame source="web_anim_06.png"></frame>
+	<frame source="web_anim_07.png"></frame>
+	<frame source="web_anim_08.png"></frame>
+	<frame source="web_anim_09.png"></frame>
+	<frame source="web_anim_10.png"></frame>
+	<frame source="web_anim_11.png"></frame>
+	<frame source="web_anim_12.png"></frame>
+	<frame source="web_anim_13.png"></frame>
+	<frame source="web_anim_14.png"></frame>
+	<frame source="web_anim_15.png"></frame>
+</animatedImage>

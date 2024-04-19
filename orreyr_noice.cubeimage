@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="1">
+	<frame source="orreyr_Screen_noise_01.png"></frame>
+	<frame source="orreyr_Screen_noise_03.png"></frame>
+	<frame source="orreyr_Screen_noise_03.png"></frame>
+</animatedImage>
